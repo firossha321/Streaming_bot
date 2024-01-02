@@ -10,7 +10,7 @@
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
-            "value": ""
+            "value": "@firosshamuhammad"
          },
         "SESSION_NAME": {
             "description": "Pyrogram String Session",
@@ -18,18 +18,19 @@
         },
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "17432758"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "c9e31fda0ce722e3f3033a9d4f140783"
         },
         "TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6834853102:AAFgAgU7nmAnezFaGKEhIEcEWEg7v67hc6k"
         },
         "ADMIN": {
             "description":"Add Your User ID"
+            "value":"6103642139"
         }
     },
     "buildpacks": [
